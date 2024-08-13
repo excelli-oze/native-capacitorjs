@@ -1,0 +1,10 @@
+{
+	"appId": "com.ecommerce.app",
+	"appName": "ecommerce-prototype-app",
+	"webDir": "ecommerce",
+	"plugins": {
+		"AppToWebPlugin": {
+			"android": "com.ecommerce.app.plugins.AppToWebPlugin"
+		}
+	}
+}

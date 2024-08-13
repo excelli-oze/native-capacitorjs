@@ -1,0 +1,23 @@
+{
+	"appId": "com.ecommerce.app",
+	"appName": "ecommerce-prototype-app",
+	"webDir": "ecommerce",
+	"plugins": {
+		"AppToWebPlugin": {
+			"android": "com.ecommerce.app.plugins.AppToWebPlugin"
+		}
+	},
+	"packageClassList": [
+		"ActionSheetPlugin",
+		"AppPlugin",
+		"CAPCameraPlugin",
+		"DialogPlugin",
+		"FilesystemPlugin",
+		"GeolocationPlugin",
+		"HapticsPlugin",
+		"LocalNotificationsPlugin",
+		"SharePlugin",
+		"StatusBarPlugin",
+		"ToastPlugin"
+	]
+}
