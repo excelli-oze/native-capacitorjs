@@ -1,6 +1,7 @@
 # Readme
 
-`Android` folder is related to android app code
+`Android` folder is related to android app code.
+
 `IOS` folder is related to ios app code.
 
 Everything else is related to `web`
